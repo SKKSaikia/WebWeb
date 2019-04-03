@@ -11,5 +11,6 @@ This is the web development [mindmap](https://coggle.it/diagram/WMMEvSoNyAABBX2w
 
 <img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/nodejs-new-pantone-black.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/django.webp" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Ruby-Logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/php_PNG3.webp" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/haskell.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Scala_logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Clojure_logo.svg.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/go.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/rust.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/tfjs.png" height=100px>
 
+Web Scraping
 
 <h2> 🛦 Dev-Ops </h2>
