@@ -5,6 +5,11 @@ This is the web development [mindmap](https://coggle.it/diagram/WMMEvSoNyAABBX2w
 
 <h2> 🛦 Front-End Development </h2>
 
+<img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/html5-css-javascript-logos.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Bootstrap-Logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/npm.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/ts.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/angular.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/ember.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/vue.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/es6.jpg" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/sass.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/mocha.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/redux.png" height=100px><a> </a>
+
 <h2> 🛦 Back-End Development </h2>
+
+<img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a><img src="" height=100px><a> </a>
+
 
 <h2> 🛦 Dev-Ops </h2>
