@@ -72,16 +72,16 @@ Server Rendered Pages: Frameworks like React, Vue & Angular can be rendered on t
 <img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Azure.webp" height=120px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Heroku.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/aws-logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/digital_ocean.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/vagrant.png" height=90px>
 
 Content Management System
-PHP Based - Wordpress, Drupal
-JS Based - Ghost, Keystone
-Python Based - Mezzazine
-.NET - Piranha, Orchard CMS
+- PHP Based - [Wordpress](), [Drupal]()
+- JS Based - [Ghost](), [Keystone]()
+- Python Based - [Mezzazine]()
+- .NET - [Piranha](), [Orchard CMS]()
 
 DevOps & Deployment
-Deployment - Linux, SSH, Git, Server Software (NGINX, Apache)
-Platform - Digital Ocean, AWS, Heroku, Azure
-Virtualization - Docker, Vagrant
-Testing - Unt, Integration, Functional, System, Mocha
+- Deployment - [Linux](https://www.linux.org/), [SSH](https://www.ssh.com/), [Git](https://git-scm.com/), Server Software ([NGINX](https://www.nginx.com/), [Apache](https://httpd.apache.org/))
+- Platform - [Digital Ocean](https://www.digitalocean.com/), [AWS](https://aws.amazon.com/), [Heroku](https://dashboard.heroku.com/), [Azure](https://azure.microsoft.com/en-in/)
+- Virtualization - [Docker](https://www.docker.com/), [Vagrant](https://www.vagrantup.com/)
+- Testing - Unit, Integration, Functional, System, [MochaJS](https://mochajs.org/)
 
 Mobile
 
