@@ -41,11 +41,12 @@ Server Side Programming Languages and Frameworks:
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/) ( [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) )
 - [Golang](https://golang.org/)
 
-[DataBase](https://github.com/SKKSaikia/DB_server)<br/>
-❆ Relational - [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MS SQL](https://www.microsoft.com/en-us/sql-server/sql-server-2019)<br/>
-❆ NoSQL - [MongoDB](https://www.mongodb.com/), [Couchbase](https://www.couchbase.com/)<br/>
-❆ Cloud - [Firebase](https://firebase.google.com/), [AWS](https://aws.amazon.com/), [Azure DocumentDB](https://azure.microsoft.com/en-in/resources/videos/introduction-to-azure-documentdb/)<br/>
-❆ Lightweight - [SQLite](https://www.sqlite.org/index.html), [NeDB](https://github.com/louischatriot/nedb), [Redis](https://redis.io/)<br/>
+DataBase 
+- Relational - [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MS SQL](https://www.microsoft.com/en-us/sql-server/sql-server-2019)<br/>
+- NoSQL - [MongoDB](https://www.mongodb.com/), [Couchbase](https://www.couchbase.com/)<br/>
+- Cloud - [Firebase](https://firebase.google.com/), [AWS](https://aws.amazon.com/), [Azure DocumentDB](https://azure.microsoft.com/en-in/resources/videos/introduction-to-azure-documentdb/)<br/>
+- Lightweight - [SQLite](https://www.sqlite.org/index.html), [NeDB](https://github.com/louischatriot/nedb), [Redis](https://redis.io/)<br/>
+Here is my [DataBase repository](https://github.com/SKKSaikia/DB_server).<br/>
 
 Server Rendered Pages: Frameworks like React, Vue & Angular can be rendered on the server side. Here are the Frameworks:
 - [Next.js](https://nextjs.org/) (React)
