@@ -10,14 +10,14 @@ Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and
 
 <b>Things to Learn:</b> <br/>
 - Code Editor - [VSCode](https://code.visualstudio.com/), [Git](https://git-scm.com/) & Hosting.
-- HTML-CSS 
-- Sass [Better CSS] - nodeSass
-- Vanilla JavaScript (DOM+Json+FetchAPI)+ ES6
-- FrontEndFramework - BootStrap/Materialize/Bulma - Help Speed up Front End
+- [HTML](https://www.w3schools.com/html/) & [CSS](https://www.w3schools.com/css/) 
+- [Sass](https://sass-lang.com/) [Better CSS] - [nodeSass](https://www.npmjs.com/package/node-sass)
+- Vanilla [JavaScript](https://www.w3schools.com/js/) (DOM+Json+FetchAPI)+ [ES6](https://www.w3schools.com/js/js_es6.asp)
+- FrontEndFramework - [BootStrap](https://getbootstrap.com/) /[Materialize](https://materializecss.com/) /[Bulma](https://bulma.io/) (Helps Speed up Front End)
 
-- Package Manager : npm/yarn 
-- Webpack or Parcel (module bundling)
-- Gulp or Grunt (task runners)
+- Package Manager : [npm](https://www.npmjs.com/) /[yarn](https://yarnpkg.com/en/) 
+- Module Bundling - [WebpackJS](https://webpack.js.org/) or [ParcelJS](https://parceljs.org/) 
+- Automation - [GulpJS](https://gulpjs.com/) or [GruntJS](https://gruntjs.com/)
 
 Front End JavaScript Frameworks:<br/>
 - React :
