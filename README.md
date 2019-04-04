@@ -46,7 +46,7 @@ DataBase
 - NoSQL - [MongoDB](https://www.mongodb.com/), [Couchbase](https://www.couchbase.com/)<br/>
 - Cloud - [Firebase](https://firebase.google.com/), [AWS](https://aws.amazon.com/), [Azure DocumentDB](https://azure.microsoft.com/en-in/resources/videos/introduction-to-azure-documentdb/)<br/>
 - Lightweight - [SQLite](https://www.sqlite.org/index.html), [NeDB](https://github.com/louischatriot/nedb), [Redis](https://redis.io/)<br/>
-Here is my [DataBase repository](https://github.com/SKKSaikia/DB_server).<br/>
+⛄ Here is my [DataBase repository](https://github.com/SKKSaikia/DB_server).<br/>
 
 Server Rendered Pages: Frameworks like React, Vue & Angular can be rendered on the server side. Here are the Frameworks:
 - [Next.js](https://nextjs.org/) (React)
