@@ -105,9 +105,7 @@ Blockchain Technology
 - [Mist](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787122147/2/ch02lvl1sec32/mist) (Storing Ethereum, sending transactions and contracts)
 - [Coinbase API](https://developers.coinbase.com/) (can easily develop apps and integrate Bitcoin)
 
-Progressive Web Apps
+[Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
-Web Assembly
-Faster than JS
-Assembly like binary format for code can be executed by Web Browsers
+[Web Assembly](https://webassembly.org/) - Faster than JS - Assembly like binary format for code can be executed by Web Browsers
 
