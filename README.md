@@ -13,6 +13,11 @@ This is the web development [mindmap](https://coggle.it/diagram/WMMEvSoNyAABBX2w
 
 Web Scraping
 
+♣ [Phantom JS](http://phantomjs.org/)<br/>
+♣ [Selenium](https://www.seleniumhq.org/)<br/>
+♣ [Scrapy](https://scrapy.org/)<br/>
+♣ [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)<br/>
+
 ML 
 
 <img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/tfjs.png" height=150px><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/brainJS.png" height=150px>
