@@ -25,7 +25,7 @@ Front End JavaScript Frameworks:<br/>
 
 JS State Management:<br/>
 - [Redux](https://redux.js.org/) ,Context API (REACT)
-- [Apollo](https://www.apollographql.com/) (GraphQL Client)
+- [Apollo](https://www.apollographql.com/) ([GraphQL](https://graphql.org/) Client)
 - [VueX](https://vuex.vuejs.org/) (Vue)
 - [NgRx](https://ngrx.io/) (Angular)
 
@@ -89,7 +89,7 @@ DevOps & Deployment
 
 Mobile Development
 - [React Native](https://facebook.github.io/react-native/) - Build Android & iOS with React Framework
-- [NativeScript](https://www.nativescript.org/) - Angular, TypeScript, JavaScipt
+- [NativeScript](https://www.nativescript.org/) - Angular, [TypeScript](https://www.typescriptlang.org/), JavaScipt
 - [Ionic](https://ionicframework.com/) - Hybrid Apps with HTML/CSS/JS
 - [Flutter](https://flutter.dev/) - Mobile SDK for Android & iOS (Uses [Dart](https://www.dartlang.org/) Programming Language)
 - [Xamarin](https://visualstudio.microsoft.com/xamarin/)- Mobile Apps with C#
@@ -97,18 +97,13 @@ Mobile Development
 Desktop Apps with [ElectronJS](https://electronjs.org/)
 - [Chromium](https://www.chromium.org/) & NodeJS (VSCode, Atom , HTTP client - [Postman](https://www.getpostman.com/) all written in Electron)
 
-GraphQL & Apollo (Much less rigid than REST api)
-
-TypeScriptt
-Superset of JS, additional features
-
 Serverless Architecture
-- AWS, Netlify & FireBase
+- AWS, [Netlify](https://www.netlify.com/) & [FireBase](https://firebase.google.com/)
 
 Blockchain Technology
-- Solidity (Language for Implementing contracts)
-- Mist (Storing Ethereum, sending transactions and contracts)
-- Coinbase API (can easily develop apps and integrate Bitcoin)
+- [Solidity](https://solidity.readthedocs.io/en/v0.4.24/) (Language for Implementing contracts)
+- [Mist](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787122147/2/ch02lvl1sec32/mist) (Storing Ethereum, sending transactions and contracts)
+- [Coinbase API](https://developers.coinbase.com/) (can easily develop apps and integrate Bitcoin)
 
 Progressive Web Apps
 
