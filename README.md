@@ -8,29 +8,28 @@ Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and
 
 <img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/html5-css-javascript-logos.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Bootstrap-Logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/npm.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/ts.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/angular.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/ember.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/vue.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/es6.jpg" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/sass.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/mocha.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/redux.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/React.js_logo-512.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/jquery.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Git-Logo-2Color.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/graphql.png" height=90px>
 
-VSCode
-Git & Hosting
-HTML-CSS 
-Sass [Better CSS] - nodeSass
-Vanilla JavaScript (DOM+Json+FetchAPI)+ ES6
-Basic FrontEnd
-FrontEndFramework - BootStrap/Materialize/Bulma - Help Speed up Front End
+<b>Things to Learn:</b> <br/>
+- Code Editor - [VSCode](https://code.visualstudio.com/), [Git](https://git-scm.com/) & Hosting.
+- HTML-CSS 
+- Sass [Better CSS] - nodeSass
+- Vanilla JavaScript (DOM+Json+FetchAPI)+ ES6
+- FrontEndFramework - BootStrap/Materialize/Bulma - Help Speed up Front End
 
-Workflow - npm/yarn 
-Webpack or Parcel (module bundling)
-Gulp or Grunt (task runners)
+- Package Manager : npm/yarn 
+- Webpack or Parcel (module bundling)
+- Gulp or Grunt (task runners)
 
-Front End javaScript Frameworks
+Front End JavaScript Frameworks:<br/>
 - React :
 - Vue :
 - Angular :
-JS State ManageMent
+
+JS State Management:<br/>
 - Redux ,Context API (REACT)
 - Apollo (GraphQL Client)
 - VueX (Vue)
 - NgRx (Angular)
 
-Full Fledged Front End Developer
 
 <h2> 🛦 Back-End Development </h2>
 
