@@ -20,15 +20,15 @@ Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and
 - Automation - [GulpJS](https://gulpjs.com/) or [GruntJS](https://gruntjs.com/)
 
 Front End JavaScript Frameworks:<br/>
-- React :
-- Vue :
-- Angular :
+- [ReactJS](https://reactjs.org/)
+- [VueJS](https://vuejs.org/)
+- [AngularJS](https://angular.io/)
 
 JS State Management:<br/>
-- Redux ,Context API (REACT)
-- Apollo (GraphQL Client)
-- VueX (Vue)
-- NgRx (Angular)
+- [Redux](https://redux.js.org/) ,Context API (REACT)
+- [Apollo](https://www.apollographql.com/) (GraphQL Client)
+- [VueX](https://vuex.vuejs.org/) (Vue)
+- [NgRx](https://ngrx.io/) (Angular)
 
 
 <h2> 🛦 Back-End Development </h2>
