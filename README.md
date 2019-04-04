@@ -34,23 +34,23 @@ JS State Management:<br/>
 
 <img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/nodejs-new-pantone-black.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/django.webp" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Ruby-Logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/php_PNG3.webp" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/haskell.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Scala_logo.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Clojure_logo.svg.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/go.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/rust.png" height=100px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/flask.webp" height=90px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/laravel.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/gulp.png" height=90px>
 
-Server Side Programming Languages and Frameworks
+Server Side Programming Languages and Frameworks:
 - [Node.Js](https://nodejs.org/en/) ( [ExpressJS](https://expressjs.com/), [KoaJS](https://koajs.com/) , [AdonisJS](https://adonisjs.com/docs/4.1/about) )
 - [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/), [Flask](http://flask.pocoo.org/) )
 - [PHP](https://www.w3schools.com/php/) ( [Laravel](https://laravel.com/), [Symfony](https://symfony.com/) )
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/) ( [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) )
 - [Golang](https://golang.org/)
 
-DataBase
-Relational - MySQL, PostgreSQL, MS SQL
-NoSQL - MongoDB, Couchbase
-Cloud - Firebase, AWS, Azure DocumentDB
-Lightweight - SQLite, NeDB, Redis
+[DataBase](https://github.com/SKKSaikia/DB_server)
+Relational - [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MS SQL](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
+NoSQL - [MongoDB](https://www.mongodb.com/), [Couchbase](https://www.couchbase.com/)
+Cloud - [Firebase](https://firebase.google.com/), [AWS](https://aws.amazon.com/), [Azure DocumentDB](https://azure.microsoft.com/en-in/resources/videos/introduction-to-azure-documentdb/)
+Lightweight - [SQLite](https://www.sqlite.org/index.html), [NeDB](https://github.com/louischatriot/nedb), [Redis](https://redis.io/)
 
-Server Rendered Pages: Frameworks like React, Vue & Angular can be rendered on the server side:
-- Next.js (React)
-- Nuxt.js (Vue)
-- Angular Universal (Angular)
+Server Rendered Pages: Frameworks like React, Vue & Angular can be rendered on the server side. Here are the Frameworks:
+- [Next.js](https://nextjs.org/) (React)
+- [Nuxt.js](https://nuxtjs.org/) (Vue)
+- [Angular Universal](https://angular.io/guide/universal) (Angular)
 
 <h2> Web Scraping </h2>
 
