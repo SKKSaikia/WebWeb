@@ -14,7 +14,6 @@ Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and
 - [Sass](https://sass-lang.com/) [Better CSS] - [nodeSass](https://www.npmjs.com/package/node-sass)
 - Vanilla [JavaScript](https://www.w3schools.com/js/) (DOM+Json+FetchAPI)+ [ES6](https://www.w3schools.com/js/js_es6.asp) + [jQuery](https://jquery.com/)
 - FrontEndFramework - [BootStrap](https://getbootstrap.com/) /[Materialize](https://materializecss.com/) /[Bulma](https://bulma.io/) (Helps Speed up Front End)
-
 - Package Manager : [npm](https://www.npmjs.com/) /[yarn](https://yarnpkg.com/en/) 
 - Module Bundling - [WebpackJS](https://webpack.js.org/) or [ParcelJS](https://parceljs.org/) 
 - Automation - [GulpJS](https://gulpjs.com/) or [GruntJS](https://gruntjs.com/)
