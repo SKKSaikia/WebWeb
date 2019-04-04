@@ -91,11 +91,11 @@ Mobile Development
 - [React Native](https://facebook.github.io/react-native/) - Build Android & iOS with React Framework
 - [NativeScript](https://www.nativescript.org/) - Angular, TypeScript, JavaScipt
 - [Ionic](https://ionicframework.com/) - Hybrid Apps with HTML/CSS/JS
-- [Flutter](https://flutter.dev/) - Mobile SDK for Android & iOS (Uses Dart Programming Language)
+- [Flutter](https://flutter.dev/) - Mobile SDK for Android & iOS (Uses [Dart](https://www.dartlang.org/) Programming Language)
 - [Xamarin](https://visualstudio.microsoft.com/xamarin/)- Mobile Apps with C#
 
 Desktop Apps with [ElectronJS](https://electronjs.org/)
-- [Chromium](https://www.chromium.org/) & NodeJS (VSCode, Atom , HTTP client Postman written in Electron)
+- [Chromium](https://www.chromium.org/) & NodeJS (VSCode, Atom , HTTP client - [Postman](https://www.getpostman.com/) all written in Electron)
 
 GraphQL & Apollo (Much less rigid than REST api)
 
