@@ -72,10 +72,10 @@ Server Rendered Pages: Frameworks like React, Vue & Angular can be rendered on t
 <img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Azure.webp" height=120px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/Heroku.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/aws-logo.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/digital_ocean.png" height=90px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/vagrant.png" height=90px>
 
 Content Management System
-- PHP Based - [Wordpress](), [Drupal]()
-- JS Based - [Ghost](), [Keystone]()
-- Python Based - [Mezzazine]()
-- .NET - [Piranha](), [Orchard CMS]()
+- PHP Based - [Wordpress](https://wordpress.com/), [Drupal](https://www.drupal.org/)
+- JS Based - [GhostJS](https://ghost.org/), [KeystoneJS](https://keystonejs.com/)
+- Python Based - [Mezzanine](http://mezzanine.jupo.org/)
+- .NET - [Piranha](http://piranhacms.org/), [Orchard CMS](https://orchardproject.net/)
 
 DevOps & Deployment
 - Deployment - [Linux](https://www.linux.org/), [SSH](https://www.ssh.com/), [Git](https://git-scm.com/), Server Software ([NGINX](https://www.nginx.com/), [Apache](https://httpd.apache.org/))
@@ -83,19 +83,19 @@ DevOps & Deployment
 - Virtualization - [Docker](https://www.docker.com/), [Vagrant](https://www.vagrantup.com/)
 - Testing - Unit, Integration, Functional, System, [MochaJS](https://mochajs.org/)
 
-Mobile
+<h2>Mobile Development</h2>
 
 <img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/dart-logo-for-shares.png" height=80px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/firebase.png" height=80px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/flutter-review.jpg" height=80px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/ionic.png" height=80px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/xamarin.png" height=80px>
 
 Mobile Development
-React Native - Build Android & iOS with React Framework
-NativeScript - Angular, TypeScript, JavaScipt
-Ionic - Hybrid Apps with HTML/CSS/JS
-Flutter - Mobile SDK for Android & iOS (Uses Dart Programming Language)
-Xamarin - Mobile Apps with C#
+- [React Native](https://facebook.github.io/react-native/) - Build Android & iOS with React Framework
+- [NativeScript](https://www.nativescript.org/) - Angular, TypeScript, JavaScipt
+- [Ionic](https://ionicframework.com/) - Hybrid Apps with HTML/CSS/JS
+- [Flutter](https://flutter.dev/) - Mobile SDK for Android & iOS (Uses Dart Programming Language)
+- [Xamarin](https://visualstudio.microsoft.com/xamarin/)- Mobile Apps with C#
 
-Desktop Apps with Electron eith JS
-- Chromium & NodeJS (VSCode, Atom , HTTP client Postman written in Electron)
+Desktop Apps with [ElectronJS](https://electronjs.org/)
+- [Chromium](https://www.chromium.org/) & NodeJS (VSCode, Atom , HTTP client Postman written in Electron)
 
 GraphQL & Apollo (Much less rigid than REST api)
 
