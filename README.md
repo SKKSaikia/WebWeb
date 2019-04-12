@@ -10,7 +10,7 @@ Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and
 
 <b>Things to Learn:</b> <br/>
 - Code Editor - [VSCode](https://code.visualstudio.com/), [Git](https://git-scm.com/) & Hosting.<br />
-  [FrontEnd Masters - VSCode](https://frontendmasters.com/courses/visual-studio-code/), [VSCodeIntro](https://youtu.be/fnPhJHN0jTE), [Favourite VSCode Extensions](https://youtu.be/rH1RTwaAeGc), [VSCode Tutorial](https://code.visualstudio.com/docs/introvideos/basics), [VSCode Tutorial 2](https://flaviocopes.com/vscode/)
+  🌓[FrontEnd Masters - VSCode](https://frontendmasters.com/courses/visual-studio-code/), [VSCodeIntro](https://youtu.be/fnPhJHN0jTE), [Favourite VSCode Extensions](https://youtu.be/rH1RTwaAeGc), [VSCode Tutorial](https://code.visualstudio.com/docs/introvideos/basics), [VSCode Tutorial 2](https://flaviocopes.com/vscode/)
 - [HTML](https://www.w3schools.com/html/) & [CSS](https://www.w3schools.com/css/) 
 - [Sass](https://sass-lang.com/) [Better CSS] - [nodeSass](https://www.npmjs.com/package/node-sass)
 - Vanilla [JavaScript](https://www.w3schools.com/js/) (DOM+Json+FetchAPI)+ [ES6](https://www.w3schools.com/js/js_es6.asp) + [jQuery](https://jquery.com/)
