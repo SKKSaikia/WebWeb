@@ -18,6 +18,7 @@ Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and
 - Package Manager : [npm](https://www.npmjs.com/) /[yarn](https://yarnpkg.com/en/) 
 - Module Bundling - [WebpackJS](https://webpack.js.org/) or [ParcelJS](https://parceljs.org/) 
 - Automation - [GulpJS](https://gulpjs.com/) or [GruntJS](https://gruntjs.com/)
+  🌓[GulpJS Crash Course](https://youtu.be/1rw9MfIleEg), [Gulp Task Automation for Beginners](https://youtu.be/LYbt50dhTko), [GruntJS: Quick Introduction](https://youtu.be/sS4sTrd57t8), [JavaScript Build Automation With Gulp.js](https://www.pluralsight.com/courses/javascript-build-automation-gulpjs), [An Introduction to JavaScript Automation with Gulp](https://www.toptal.com/nodejs/an-introduction-to-automation-with-gulp)
 
 Front End JavaScript Frameworks:<br/>
 - [ReactJS](https://reactjs.org/)
