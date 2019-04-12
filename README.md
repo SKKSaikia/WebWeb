@@ -23,12 +23,15 @@ Front End JavaScript Frameworks:<br/>
 - [VueJS](https://vuejs.org/)
 - [AngularJS](https://angular.io/)
 
-JS State Management:<br/>
+JS State Management:<br />
 - [Redux](https://redux.js.org/) ,Context API (REACT)
 - [Apollo](https://www.apollographql.com/) ([GraphQL](https://graphql.org/) Client)
 - [VueX](https://vuex.vuejs.org/) (Vue)
 - [NgRx](https://ngrx.io/) (Angular)
 
+<b>JavaScript Engines</b> <br />
+- [Chrome - v8](https://v8.dev/)
+- [Mozilla - SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
 
 <h2> 🛦 Back-End Development </h2>
 
