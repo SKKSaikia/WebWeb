@@ -14,8 +14,11 @@ Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and
 - [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/) & [Sass](https://sass-lang.com/) [Better CSS] - [nodeSass](https://www.npmjs.com/package/node-sass) <br />
   🌓W3School - [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/) ; [CSS - The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/), [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/advanced-css-and-sass/), [CSS Grids and Flexbox in Responsive Web Design](https://frontendmasters.com/workshops/responsive-web-design-flexbox-css-grid/), [Learn CSS In-Depth, v2](https://frontendmasters.com/courses/css-in-depth-v2/), [Sass Fundamentals](https://frontendmasters.com/courses/sass/), [Saas in 20 Mins](https://youtu.be/Zz6eOVaaelI), [CSS for Absolute Beginners](https://youtu.be/yfoY53QXEnI), [CSS Full Course - Includes Flexbox and CSS Grid Tutorials](https://youtu.be/ieTHC78giGQ)
 - Vanilla [JavaScript](https://www.w3schools.com/js/) (DOM+Json+FetchAPI)+ [ES6](https://www.w3schools.com/js/js_es6.asp) + [jQuery](https://jquery.com/) <br />
+  🌓 [](), [](), []()
 - FrontEndFramework - [BootStrap](https://getbootstrap.com/) /[Materialize](https://materializecss.com/) /[Bulma](https://bulma.io/) (Helps Speed up Front End) <br />
+  🌓 [](), [](), []()
 - Package Manager : [npm](https://www.npmjs.com/) /[yarn](https://yarnpkg.com/en/) <br />
+  🌓 [](), [](), []()
 - Module Bundling - [WebpackJS](https://webpack.js.org/) or [ParcelJS](https://parceljs.org/) <br />
   🌓[WebPack Crash Course](https://youtu.be/lziuNMk_8eQ), [Exploring The Parcel Application Bundler](https://youtu.be/DYZTFooDB24)
 - Automation - [GulpJS](https://gulpjs.com/) or [GruntJS](https://gruntjs.com/) <br />
