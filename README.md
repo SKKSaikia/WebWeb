@@ -84,11 +84,14 @@ Server Rendered Pages: Frameworks like React, Vue & Angular can be rendered on t
 <h2> Web Scraping </h2>
 
 ♣ [Phantom JS](http://phantomjs.org/)<br/>
+  🌗<br/>
 ♣ [Selenium](https://www.seleniumhq.org/)<br/>
+  🌗<br/>
 ♣ [Scrapy](https://scrapy.org/)<br/>
-  [Scrapy: Powerful Web Scraping & Crawling with Python](https://www.udemy.com/scrapy-tutorial-web-scraping-with-python/), [Python Scrapy: Scrape Web Data Using Python](https://www.udemy.com/python-scrapy/)
+  🌗 [Scrapy: Powerful Web Scraping & Crawling with Python](https://www.udemy.com/scrapy-tutorial-web-scraping-with-python/), [Python Scrapy: Scrape Web Data Using Python](https://www.udemy.com/python-scrapy/)<br/>
 ♣ [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)<br/>
-
+  🌗 [](), [](), []()<br/>
+  
 <h2> Machine Learning </h2> 
 
 <img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/tfjs.png" height=150px><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/brainJS.png" height=150px>
