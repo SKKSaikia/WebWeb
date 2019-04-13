@@ -36,13 +36,13 @@ Hey There, Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Ba
   
 <b>JS State Management: </b><br />
 - [Redux](https://redux.js.org/) ,Context API (REACT)<br />
-  🌓
+  🌓 [Redux Crash Course With React](https://youtu.be/93p3LxR9xfM), [[Redux] - The Best Explanation of How it Works](https://youtu.be/3sjMRS1gJys), [Redux Tutorial](https://www.valentinog.com/blog/redux/), [A Complete React Redux Tutorial for Beginners (2019)](https://daveceddia.com/redux-tutorial/)
 - [Apollo](https://www.apollographql.com/) ([GraphQL](https://graphql.org/) Client)<br />
-  🌓
+  🌓 [GraphQL With React & Apollo [1] - Express GraphQL Server](https://youtu.be/SEMTj8w04Z8), [GraphQL Full Course - Novice to Expert](https://youtu.be/ed8SzALpx1Q), [The basics of GraphQL and Apollo](https://youtu.be/eUMgWOcvagQ), [What's next for Apollo Client (Peggy Rayzis)](https://youtu.be/WM7YsPzWuTA), [What Is GraphQL?](https://youtu.be/VjXb3PRL9WI), [GraphQL Tutorial](https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f), [Testing GraphQL (Jake Dawkins)](https://youtu.be/loA3FwbVt90), [REST vs. GraphQL: Critical Look](https://youtu.be/yLf0rIaRtRc), [Using GraphQL, ReactJS and Apollo To Create Amazing Apps](https://youtu.be/kXH2dbnHYA0), [Zero To GraphQL In 30 Minutes](https://youtu.be/H8YnVk2vhzg), [](), [](), []()
 - [VueX](https://vuex.vuejs.org/) (Vue)<br />
-  🌓
+  🌓 [Vuex Crash Course | State Management](https://youtu.be/5lVQgZzLMHc), [Learn Vuex by Example - Handling Vue State Management](https://youtu.be/ZSexhaiMKJE), [Mastering Vue.js and Vuex](https://youtu.be/b-wIMYfDYWI), [VueX Tutorial](https://vuex.vuejs.org/guide/), [The VueX Tutorial](https://flaviocopes.com/vuex/)
 - [NgRx](https://ngrx.io/) (Angular)<br />
-  🌓
+  🌓 [Ngrx Store Tutorial for Angular - Learn State Management for Angular](https://youtu.be/9P5DTlg9oLc), [Ultimate Angular - Todd Motto](https://www.youtube.com/watch?v=N_UQx8dPPkc&list=PLW2eQOsUPlWJRfWGOi9gZdc3rE4Fke0Wv), [Angular ngrx Redux Quick Start Tutorial](https://youtu.be/f97ICOaekNU)
 
 <b>JavaScript Engines</b> <br />
 - [Chrome - v8](https://v8.dev/)<br />
