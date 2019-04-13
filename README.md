@@ -28,11 +28,11 @@ Hey There, Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Ba
 
 <b>Front End JavaScript Frameworks:</b><br/>
 - [ReactJS](https://reactjs.org/)<br/>
-  🌓 
+  🌓 [Learn React.js - Full Course for Beginners](https://youtu.be/DLX62G4lc44), [Learn React - Mosh](https://youtu.be/Ke90Tje7VS0), [React JS Crash Course](https://youtu.be/sBws8MSXN7A), [](), [](), [](), [](), []()
 - [VueJS](https://vuejs.org/)<br/>
-  🌓
+  🌓 [Vue JS Crash Course - 2019](https://youtu.be/Wy9q22isx3U), [Learn Vue.js - Full Course for Beginners - 2019](https://youtu.be/4deVCNJq3qc), [VueJS 2 Tutorial](https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa), [Vue.js 2.0 In 60 Minutes](https://youtu.be/z6hQqgvGI4Y), [Vue js Customer Manager App Frontend](https://youtu.be/IUgstalu6zo), [Build a Calculator with Vue.js](https://youtu.be/m1_ih43p24s), [Vuex Crash Course | State Management](https://youtu.be/5lVQgZzLMHc), [](), []()
 - [AngularJS](https://angular.io/)<br/>
-  🌓
+  🌓 [Angular Tutorial for Beginners: Learn Angular from Scratch | Mosh](https://youtu.be/k5E2AVpwsko), [Learn Angular - Full Tutorial Course](https://youtu.be/2OHbjep_WjQ), [Angular Crash Course - 2019](https://youtu.be/Fdf5aTYRW0E), [](), [](), [](), [](), [](), []()
   
 <b>JS State Management: </b><br />
 - [Redux](https://redux.js.org/) ,Context API (REACT)<br />
