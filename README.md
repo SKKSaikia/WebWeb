@@ -26,20 +26,29 @@ Hey There, Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Ba
 - <b>Automation - [GulpJS](https://gulpjs.com/) or [GruntJS](https://gruntjs.com/) </b><br />
   🌓[GulpJS Crash Course](https://youtu.be/1rw9MfIleEg), [Gulp Task Automation for Beginners](https://youtu.be/LYbt50dhTko), [GruntJS: Quick Introduction](https://youtu.be/sS4sTrd57t8), [JavaScript Build Automation With Gulp.js](https://www.pluralsight.com/courses/javascript-build-automation-gulpjs), [An Introduction to JavaScript Automation with Gulp](https://www.toptal.com/nodejs/an-introduction-to-automation-with-gulp), [GulpJS for Beginners](https://appdividend.com/2018/03/09/gulp-js-tutorial-beginners/)
 
-Front End JavaScript Frameworks:<br/>
-- [ReactJS](https://reactjs.org/)
-- [VueJS](https://vuejs.org/)
-- [AngularJS](https://angular.io/)
-
-JS State Management:<br />
-- [Redux](https://redux.js.org/) ,Context API (REACT)
-- [Apollo](https://www.apollographql.com/) ([GraphQL](https://graphql.org/) Client)
-- [VueX](https://vuex.vuejs.org/) (Vue)
-- [NgRx](https://ngrx.io/) (Angular)
+<b>Front End JavaScript Frameworks:</b><br/>
+- [ReactJS](https://reactjs.org/)<br/>
+  🌓 
+- [VueJS](https://vuejs.org/)<br/>
+  🌓
+- [AngularJS](https://angular.io/)<br/>
+  🌓
+  
+<b>JS State Management: </b><br />
+- [Redux](https://redux.js.org/) ,Context API (REACT)<br />
+  🌓
+- [Apollo](https://www.apollographql.com/) ([GraphQL](https://graphql.org/) Client)<br />
+  🌓
+- [VueX](https://vuex.vuejs.org/) (Vue)<br />
+  🌓
+- [NgRx](https://ngrx.io/) (Angular)<br />
+  🌓
 
 <b>JavaScript Engines</b> <br />
-- [Chrome - v8](https://v8.dev/)
-- [Mozilla - SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
+- [Chrome - v8](https://v8.dev/)<br />
+  🌓 [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), [How the V8 engine works?](http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works/), [JavaScript Engine Internals for JavaScript Developers](https://youtu.be/-lt6a9kbc_k), [V8 Today and in the Future (Chrome Dev Summit 2017)](https://youtu.be/7rx9fSUG8H0), [V8, Advanced JavaScript, & the Next Performance Frontier (Google I/O '17)](https://youtu.be/EdFDJANJJLs), [The V8 Engine and Node.js](https://youtu.be/PsDqH_RKvyc), [Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code](https://medium.freecodecamp.org/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964)
+- [Mozilla - SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)<br/>
+  🌓
 
 <h2> 🛦 Back-End Development </h2>
 
