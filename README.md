@@ -84,13 +84,13 @@ Server Rendered Pages: Frameworks like React, Vue & Angular can be rendered on t
 <h2> Web Scraping </h2>
 
 ♣ [Phantom JS](http://phantomjs.org/)<br/>
-  🌗<br/>
+  🌗 [PhantomJS demo for web scraping](https://youtu.be/NES9RtRLWpY), [Automation with PhantomJS](https://www.youtube.com/watch?v=omUoFGMxRPI&list=PLaL2yxczKLcDGdGH0NG9tgOVe_8XTYjbv), [The Ultimate Introduction to Web Scraping and Browser Automation](https://youtu.be/1UYBAn69Qrk) <br/>
 ♣ [Selenium](https://www.seleniumhq.org/)<br/>
-  🌗<br/>
+  🌗 [Creating an Automated Testing Framework With Selenium](https://www.pluralsight.com/courses/automated-testing-framework-selenium), [Selenium-Python|Best for Automation beginner|Live Apps-30+hr](https://www.udemy.com/selenium-with-python/), [Selenium WebDriver With Python 3.x - Novice To Ninja](https://www.udemy.com/selenium-webdriver-with-python3/)<br/>
 ♣ [Scrapy](https://scrapy.org/)<br/>
-  🌗 [Scrapy: Powerful Web Scraping & Crawling with Python](https://www.udemy.com/scrapy-tutorial-web-scraping-with-python/), [Python Scrapy: Scrape Web Data Using Python](https://www.udemy.com/python-scrapy/)<br/>
+  🌗 [Scrapy: Powerful Web Scraping & Crawling with Python](https://www.udemy.com/scrapy-tutorial-web-scraping-with-python/), [Python Scrapy: Scrape Web Data Using Python](https://www.udemy.com/python-scrapy/), [Scrapy Tutorial](https://www.youtube.com/watch?v=ve_0h4Y8nuI&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t), [Web Scraping Using Scrapy Tutorial For Beginners: Learn Scrapy From Scratch](https://youtu.be/Wp6LRijW9wg), [Web Scraping in Python using Scrapy: Scraping a Crowdfunding Website](https://youtu.be/O_j3OTXw2_E)<br/>
 ♣ [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)<br/>
-  🌗 [](), [](), []()<br/>
+  🌗 [Python Tutorial: Web Scraping with BeautifulSoup and Requests](https://youtu.be/ng2o98k983k), [Sentdex - BeautifulSoup](https://www.youtube.com/watch?v=aIPqt-OdmS0&list=PLQVvvaa0QuDfV1MIRBOcqClP6VZXsvyZS), [Intro to Web Scraping with Python and Beautiful Soup](https://youtu.be/XQgXKtPSzUI), [Beautiful Soup Tutorial - Web Scraping in Python](https://youtu.be/87Gx3U0BDlo)<br/>
   
 <h2> Machine Learning </h2> 
 
