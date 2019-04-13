@@ -136,3 +136,7 @@ Blockchain Technology
 - [Make a Spotify Clone from Scratch: JavaScript PHP and MySQL](https://www.udemy.com/spotify-clone/)
 
 - [Build a Social Network from Scratch: JavaScript PHP + MySQL](https://www.udemy.com/make-a-social-media-website/)
+
+- [Native Android App Tutorial: WhatsApp Clone](https://youtu.be/988UZFB0heA)
+
+- [Stock Market Maintenance & Prediction with Sentiment Analysis]()
