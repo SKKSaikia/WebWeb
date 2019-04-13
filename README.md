@@ -20,7 +20,7 @@ Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and
 - Package Manager : [npm](https://www.npmjs.com/) /[yarn](https://yarnpkg.com/en/) <br />
   🌓 [](), [](), []()
 - Module Bundling - [WebpackJS](https://webpack.js.org/) or [ParcelJS](https://parceljs.org/) <br />
-  🌓[WebPack Crash Course](https://youtu.be/lziuNMk_8eQ), [Exploring The Parcel Application Bundler](https://youtu.be/DYZTFooDB24)
+  🌓[WebPack Crash Course](https://youtu.be/lziuNMk_8eQ), [Exploring The Parcel Application Bundler](https://youtu.be/DYZTFooDB24), [Webpack Plugins System](https://frontendmasters.com/courses/webpack-plugins/), [Web Performance with Webpack](https://frontendmasters.com/courses/performance-webpack/), [Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/), [Webpack 4: Beyond the Basics](https://www.udemy.com/webpack-beyond-the-basics/), [Parcel: A Zero-Configuration Webpack Alternative](https://youtu.be/4XB6jcyiADY)
 - Automation - [GulpJS](https://gulpjs.com/) or [GruntJS](https://gruntjs.com/) <br />
   🌓[GulpJS Crash Course](https://youtu.be/1rw9MfIleEg), [Gulp Task Automation for Beginners](https://youtu.be/LYbt50dhTko), [GruntJS: Quick Introduction](https://youtu.be/sS4sTrd57t8), [JavaScript Build Automation With Gulp.js](https://www.pluralsight.com/courses/javascript-build-automation-gulpjs), [An Introduction to JavaScript Automation with Gulp](https://www.toptal.com/nodejs/an-introduction-to-automation-with-gulp), [GulpJS for Beginners](https://appdividend.com/2018/03/09/gulp-js-tutorial-beginners/)
 
