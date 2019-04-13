@@ -122,3 +122,10 @@ Blockchain Technology
 # PROJECTS :
 
 - [Build AirBnb with Ruby on Rails, Bootstrap, jQuery and PayPal](https://code4startup.com/projects/airalien-clone-airbnb-with-ruby-on-rails-bootstrap-jquery-and-paypal)
+
+- [Learn how to build your UberEats with Python + Swift + Android](https://code4startup.com/projects/uber-app-for-food-with-python-django-and-swift)
+
+- [Build Fiverr marketplace with Python Django and Braintree](https://code4startup.com/projects/build-fiverr-marketplace-with-python-django-and-braintree)
+
+- [Build Tinder mobile app with Ionic and Angular](https://code4startup.com/projects/build-tinder-mobile-app-with-ionic-and-angular)
+
