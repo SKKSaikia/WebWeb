@@ -48,7 +48,7 @@ Hey There, Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Ba
 - [Chrome - v8](https://v8.dev/)<br />
   🌓 [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), [How the V8 engine works?](http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works/), [JavaScript Engine Internals for JavaScript Developers](https://youtu.be/-lt6a9kbc_k), [V8 Today and in the Future (Chrome Dev Summit 2017)](https://youtu.be/7rx9fSUG8H0), [V8, Advanced JavaScript, & the Next Performance Frontier (Google I/O '17)](https://youtu.be/EdFDJANJJLs), [The V8 Engine and Node.js](https://youtu.be/PsDqH_RKvyc), [Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code](https://medium.freecodecamp.org/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964)
 - [Mozilla - SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)<br/>
-  🌓
+  🌓 [SpiderMonkey Guides](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey), [A Trip to the Zoo: SpiderMonkey, SquirrelFish, Nashorn, V8*](https://youtu.be/sloddfX9jLE)
 
 <h2> 🛦 Back-End Development </h2>
 
