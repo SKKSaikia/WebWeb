@@ -18,7 +18,7 @@ Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and
 - FrontEndFramework - [BootStrap](https://getbootstrap.com/) /[Materialize](https://materializecss.com/) /[Bulma](https://bulma.io/) (Helps Speed up Front End) <br />
   🌓 [](), [](), []()
 - Package Manager : [npm](https://www.npmjs.com/) /[yarn](https://yarnpkg.com/en/) <br />
-  🌓 [](), [](), []()
+  🌓 [npm crash course](https://youtu.be/jHDhaSSKmB0), [npm tutorial](https://www.youtube.com/watch?v=6fj0cpmMiVg&list=PLC3y8-rFHvwhgWwm5J3KqzX47n7dwWNrq), [Yarn Package Manager Crash Course](https://youtu.be/g9_6KmiBISk), [Intro to yarn package manager](https://youtu.be/7n467QmiANM)
 - Module Bundling - [WebpackJS](https://webpack.js.org/) or [ParcelJS](https://parceljs.org/) <br />
   🌓[WebPack Crash Course](https://youtu.be/lziuNMk_8eQ), [Exploring The Parcel Application Bundler](https://youtu.be/DYZTFooDB24), [Webpack Plugins System](https://frontendmasters.com/courses/webpack-plugins/), [Web Performance with Webpack](https://frontendmasters.com/courses/performance-webpack/), [Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/), [Webpack 4: Beyond the Basics](https://www.udemy.com/webpack-beyond-the-basics/), [Parcel: A Zero-Configuration Webpack Alternative](https://youtu.be/4XB6jcyiADY)
 - Automation - [GulpJS](https://gulpjs.com/) or [GruntJS](https://gruntjs.com/) <br />
