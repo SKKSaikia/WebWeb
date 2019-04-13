@@ -130,3 +130,9 @@ Blockchain Technology
 - [Build Tinder mobile app with Ionic and Angular](https://code4startup.com/projects/build-tinder-mobile-app-with-ionic-and-angular)
 
 - [Build Collaborative editor and Real-time video call with NodeJS](https://code4startup.com/projects/create-a-collaborative-code-platform-with-real-time-video-call-with-nodejs)
+
+- [Make a YouTube Clone from Scratch: JavaScript PHP and MySQL](https://www.udemy.com/youtube-clone/)
+
+- [Make a Spotify Clone from Scratch: JavaScript PHP and MySQL](https://www.udemy.com/spotify-clone/)
+
+- [Build a Social Network from Scratch: JavaScript PHP + MySQL](https://www.udemy.com/make-a-social-media-website/)
