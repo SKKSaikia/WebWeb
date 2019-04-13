@@ -56,15 +56,15 @@ Hey There, Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Ba
 
 Server Side Programming Languages and Frameworks:
 - [Node.Js](https://nodejs.org/en/) ( [ExpressJS](https://expressjs.com/), [KoaJS](https://koajs.com/) , [AdonisJS](https://adonisjs.com/docs/4.1/about) )<br/>
-   🌗
+   🌗 [](), [](), [](), [](), []()
 - [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/), [Flask](http://flask.pocoo.org/) )<br/>
-   🌗
+   🌗 [Python Tutorial for Beginners  - Mosh](https://youtu.be/_uQrJ0TkZlc), [Learn Python - Full Course for Beginners](https://youtu.be/rfscVS0vtbw), [Python Django Web Framework - Full Course for Beginners](https://youtu.be/F5mRW0jo-U4), [Python Crash Course For Beginners](https://youtu.be/JJmcL1N2KQs), [Zero to Hero with Python Programming](https://youtu.be/3cZsjOclmoM), [Creating an Online Chess Game With Python](https://youtu.be/HvjsMrR51lg), [Python Django Crash Course](https://youtu.be/D6esTdOLXh4), [Sentdex - Python](https://www.youtube.com/user/sentdex/playlists), [Flask Tutorial](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH), [CS50 - Web Programming with Flask](https://youtu.be/zdgYw-3tzfI), [](), []()
 - [PHP](https://www.w3schools.com/php/) ( [Laravel](https://laravel.com/), [Symfony](https://symfony.com/) )<br/>
-   🌗
+   🌗 [PHP Programming Language - Full Course](https://youtu.be/OK_JCtrrv-c), [Creating Ecommerce Website with php](https://youtu.be/C1phgYAzIfg), [PHP Tutorials](https://www.youtube.com/watch?v=qVU3V0A05k8&list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-), [Symfony Tutorial](https://www.youtube.com/watch?v=HchMW8EhWPU&list=PLillGF-RfqbZg1_XTHyrn9kHVLy-3ZXLt), [Laravel from Scratch](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-), [](), []()
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/) ( [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) )<br/>
-   🌗
+   🌗 [C# Tutorial - Full Course for Beginners](https://youtu.be/GhQdlIFylQ8), [Learn C# Basics in 1 Hour - C# Tutorial For Beginners](https://youtu.be/gfkTfcpWqAY), [C# Fundamentals for Absolute Beginners](https://youtu.be/nRjHGKaJY8M), [Create a C# Application from Start to Finish - Complete Course](https://youtu.be/wfWxdh-_k_4), [ASP.NET Core - Beginner](https://youtu.be/xc3Gl4rnWV4), [ASP.NET CORE for Beginners - an 8 Hour Workshop](https://youtu.be/--lYHxrsLsc), [Step-by-step ASP.NET MVC Tutorial for Beginners | Mosh](https://youtu.be/E7Voso411Vs)
 - [Golang](https://golang.org/)<br/>
-   🌗
+   🌗 [sentdex - Go](https://www.youtube.com/watch?v=G3PvTWRIhZA&list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX), [Go / Golang Crash Course](https://youtu.be/SqrbIlUwR0U), [Go Programming](https://youtu.be/CF9S4QZuV30), [](), []()
 
 DataBase 
 - Relational - [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MS SQL](https://www.microsoft.com/en-us/sql-server/sql-server-2019)<br/>
