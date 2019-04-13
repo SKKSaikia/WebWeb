@@ -15,8 +15,8 @@ Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and
   🌓W3School - [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/) ; [CSS - The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/), [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/advanced-css-and-sass/), [CSS Grids and Flexbox in Responsive Web Design](https://frontendmasters.com/workshops/responsive-web-design-flexbox-css-grid/), [Learn CSS In-Depth, v2](https://frontendmasters.com/courses/css-in-depth-v2/), [Sass Fundamentals](https://frontendmasters.com/courses/sass/), [Saas in 20 Mins](https://youtu.be/Zz6eOVaaelI), [CSS for Absolute Beginners](https://youtu.be/yfoY53QXEnI), [CSS Full Course - Includes Flexbox and CSS Grid Tutorials](https://youtu.be/ieTHC78giGQ)
 - Vanilla [JavaScript](https://www.w3schools.com/js/) (DOM+Json+FetchAPI)+ [ES6](https://www.w3schools.com/js/js_es6.asp) + [jQuery](https://jquery.com/) <br />
   🌓 [](), [](), []()
-- FrontEndFramework - [BootStrap](https://getbootstrap.com/) /[Materialize](https://materializecss.com/) /[Bulma](https://bulma.io/) (Helps Speed up Front End) <br />
-  🌓 [](), [](), []()
+- CSS Frameworks - [BootStrap](https://getbootstrap.com/) /[Materialize](https://materializecss.com/) /[Bulma](https://bulma.io/) (Helps Speed up Front End) <br />
+  🌓 [Bulma CSS Framework Crash Course](https://youtu.be/IiPQYQT2-wg), Materialize CSS Crash Course [Part 1](https://youtu.be/nqT8c5OFjEQ), [Part 2](https://youtu.be/ZpduVPHZ5Aw), [Materialize Tutorial](https://www.youtube.com/watch?v=gCZ3y6mQpW0&list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff), [Bootstrap Beginner Crash Course](https://youtu.be/5GcQtLDGXy8), [Bootstrap Tutorial](https://www.youtube.com/watch?v=wesUO81YX0U&list=PL41lfR-6DnOovY0t3nBg8Zb6aqm_H70mR), [Derek Banas - Bootstrap](https://youtu.be/gqOEoUR5RHg), [Bootstrap 4 From Scratch With 5 Projects](https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/), [](), []()
 - Package Manager : [npm](https://www.npmjs.com/) /[yarn](https://yarnpkg.com/en/) <br />
   🌓 [npm crash course](https://youtu.be/jHDhaSSKmB0), [npm tutorial](https://www.youtube.com/watch?v=6fj0cpmMiVg&list=PLC3y8-rFHvwhgWwm5J3KqzX47n7dwWNrq), [Yarn Package Manager Crash Course](https://youtu.be/g9_6KmiBISk), [Intro to yarn package manager](https://youtu.be/7n467QmiANM)
 - Module Bundling - [WebpackJS](https://webpack.js.org/) or [ParcelJS](https://parceljs.org/) <br />
@@ -118,3 +118,7 @@ Blockchain Technology
 
 [Web Assembly](https://webassembly.org/) - Faster than JS - Assembly like binary format for code can be executed by Web Browsers
 
+
+# PROJECTS :
+
+- [Build AirBnb with Ruby on Rails, Bootstrap, jQuery and PayPal](https://code4startup.com/projects/airalien-clone-airbnb-with-ruby-on-rails-bootstrap-jquery-and-paypal)
