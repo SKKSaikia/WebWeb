@@ -2,7 +2,7 @@
 
 # Web Development
 
-Hey There, Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and build amazing projects. There are a lot of amazing resources for Learning Web Development and here they are (few of them) -  ♞ [The Coding Train](https://www.youtube.com/user/shiffman), [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh), [Traversy Media](https://www.youtube.com/user/TechGuyWeb) etc. This is the web development [mindmap](https://coggle.it/diagram/WMMEvSoNyAABBX2w/t/web-development-in-2018/b97ca171d59ba2ab3b7ea8da244a8ed3a154ffa067568635fe2676068a1d44d0) and [this](https://github.com/kamranahmedse/developer-roadmap) chart is amazing as well. I have created a list of resources (step wise from Top to Bottom) that you need to learn chronologocally.
+Hey There, Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and build amazing projects. There are a lot of amazing resources for Learning Web Development and here they are (few of them) -  ♞ [The Coding Train](https://www.youtube.com/user/shiffman), [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh), [Traversy Media](https://www.youtube.com/user/TechGuyWeb) etc. This is the web development [mindmap](https://coggle.it/diagram/WMMEvSoNyAABBX2w/t/web-development-in-2018/b97ca171d59ba2ab3b7ea8da244a8ed3a154ffa067568635fe2676068a1d44d0) and [this](https://github.com/kamranahmedse/developer-roadmap) chart is amazing as well. I have created a list of resources (step wise from Top to Bottom) that you need to learn chronologically.
 
 
 
