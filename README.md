@@ -135,14 +135,15 @@ Serverless Architecture
 - AWS, [Netlify](https://www.netlify.com/) & [FireBase](https://firebase.google.com/)
 
 Blockchain Technology
-- [Solidity](https://solidity.readthedocs.io/en/v0.4.24/) (Language for Implementing contracts)
-- [Mist](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787122147/2/ch02lvl1sec32/mist) (Storing Ethereum, sending transactions and contracts)
-- [Coinbase API](https://developers.coinbase.com/) (can easily develop apps and integrate Bitcoin)
+- [Solidity](https://solidity.readthedocs.io/en/v0.4.24/) (Language for Implementing contracts) : [Solidity / Ethereum Smart Contract BEGINNER Tutorial - Create 5 Smart Contracts](https://youtu.be/togl4DdYah0)
+- [Mist](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787122147/2/ch02lvl1sec32/mist) (Storing Ethereum, sending transactions and contracts) : [Deploying A Smart Contract To The Ethereum Blockchain w/ Mist](https://youtu.be/qVvK0MZ_cpg)
+- [Coinbase API](https://developers.coinbase.com/) (can easily develop apps and integrate Bitcoin) - [Tutorial](https://developers.coinbase.com/docs/wallet/tutorials)
 
-[Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
+[Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)<br />
+- [What Is A Progressive Web App?](https://youtu.be/VmKePMB0C8Q), [Progressive Web App tutorial – learn to build a PWA from scratch](https://youtu.be/gcx-3qi7t7c), [Progressive Web Apps (PWA) Tutorial for Beginners - Getting Started](https://youtu.be/dap6yIe1uK4)<br />
 
-[Web Assembly](https://webassembly.org/) - Faster than JS - Assembly like binary format for code can be executed by Web Browsers
-
+[Web Assembly](https://webassembly.org/) - Faster than JS - Assembly like binary format for code can be executed by Web Browsers<br />
+- [Build the future of the web with WebAssembly and more (Google I/O '18)](https://youtu.be/BnYq7JapeDA), [WebAssembly: Disrupting JavaScript](https://youtu.be/7mBf3Gig9io), [WebAssembly: Real World Applications](https://youtu.be/ysFJHpS-O08)
 
 # PROJECTS :
 
@@ -164,4 +165,4 @@ Blockchain Technology
 
 - [Native Android App Tutorial: WhatsApp Clone](https://youtu.be/988UZFB0heA)
 
-- [Stock Market Maintenance & Prediction with Sentiment Analysis]()
+- [Stock Market Maintenance & Prediction with Sentiment Analysis](https://github.com/SKKSaikia/StockXAEC)
