@@ -97,7 +97,7 @@ Server Rendered Pages: Frameworks like React, Vue & Angular can be rendered on t
 <img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/tfjs.png" height=150px><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/brainJS.png" height=150px>
 
 ♣ [TensorFlow JS](https://www.tensorflow.org/js)<br/>
-  🌗<br />
+  🌗 [Tensorflow.js Tutorial](https://www.tensorflow.org/js/tutorials), [Learn TensorFlow.js - Deep Learning and Neural Networks with JavaScript](https://youtu.be/EoYfa6mYOG4), [Tensorflow.js Explained](https://youtu.be/Nc8kZABv-KE), [TensorFlow.js](https://www.youtube.com/watch?v=Qt3ZABW5lD0&list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ), [TensorFlow.js Crash Course](https://youtu.be/M4YsClyTMzg), [Webcam Tracking with Tensorflow.js](https://youtu.be/9KqNk5keyCc)<br />
 ♣ [Brain JS](https://github.com/BrainJS)<br/>
   🌗 [Neural Networks with JavaScript - Full Course using Brain.js](https://youtu.be/6E6XecoTRVo), [Simple Machine Learning With JavaScript - Brain.js](https://youtu.be/RVMHhtTqUxc), [Want to learn neural networks? Here’s a free Brain.js course!](https://medium.freecodecamp.org/want-to-learn-neural-networks-heres-a-free-brain-js-course-merry-christmas-ea801f378041)<br />
 
