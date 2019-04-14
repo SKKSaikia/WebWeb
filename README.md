@@ -122,14 +122,17 @@ DevOps & Deployment
 <img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/dart-logo-for-shares.png" height=80px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/firebase.png" height=80px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/flutter-review.jpg" height=80px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/ionic.png" height=80px><a> </a><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/xamarin.png" height=80px>
 
 Mobile Development
-- [React Native](https://facebook.github.io/react-native/) - Build Android & iOS with React Framework
+- [React Native](https://facebook.github.io/react-native/) - Build Android & iOS with React Framework<br />
+  [React Native Tutorial for Beginners - Getting Started](https://youtu.be/6ZnfsJ6mM5c), [React Native - Intro Course for Beginners](https://youtu.be/frvXANSaSec), [React Native Web Full App Tutorial - Build a Workout App for iOS, Android, and Web](https://youtu.be/_CBYbEGvxYY), [Build React Native Chat App In 30 Minutes](https://youtu.be/7Ot5LSGHLyY)
 - [NativeScript](https://www.nativescript.org/) - Angular, [TypeScript](https://www.typescriptlang.org/), JavaScipt
-- [Ionic](https://ionicframework.com/) - Hybrid Apps with HTML/CSS/JS
-- [Flutter](https://flutter.dev/) - Mobile SDK for Android & iOS (Uses [Dart](https://www.dartlang.org/) Programming Language)
-- [Xamarin](https://visualstudio.microsoft.com/xamarin/)- Mobile Apps with C#
+- [Ionic](https://ionicframework.com/) - Hybrid Apps with HTML/CSS/JS - [Ionic 3 Mobile Weather App Build](https://youtu.be/qs2n_poLarc)
+- [Flutter](https://flutter.dev/) - Mobile SDK for Android & iOS (Uses [Dart](https://www.dartlang.org/) Programming Language)<br />
+  [Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart](https://youtu.be/GLSG_Wh_YWc), [Flutter Challenge: Music Player](https://youtu.be/FE7Vtzq52xg)
+- [Xamarin](https://visualstudio.microsoft.com/xamarin/)- Mobile Apps with C# - [Xamarin Forms Tutorial: Build Native Mobile Apps with C#](https://youtu.be/93ZU6j59wL4)
 
 Desktop Apps with [ElectronJS](https://electronjs.org/)
 - [Chromium](https://www.chromium.org/) & NodeJS (VSCode, Atom , HTTP client - [Postman](https://www.getpostman.com/) all written in Electron)
+- [Build an Electron App in Under 60 Minutes](https://youtu.be/kN1Czs0m1SU), [Electron JS Tutorials](https://www.youtube.com/watch?v=tqBi_Tou6wQ&list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW), [Build a Native Desktop App with Electron (YouTube Stats App)](https://youtu.be/Ea2lWsumTrM), [S01E13 - Plant App - React Native](https://youtu.be/gyiwFcrVRCM), [How to Build Calculator App | Project in Electron](https://youtu.be/La87CRt6CpY)
 
 Serverless Architecture
 - AWS, [Netlify](https://www.netlify.com/) & [FireBase](https://firebase.google.com/)
