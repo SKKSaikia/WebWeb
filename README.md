@@ -115,7 +115,8 @@ DevOps & Deployment
 - Deployment - [Linux](https://www.linux.org/), [SSH](https://www.ssh.com/), [Git](https://git-scm.com/), Server Software ([NGINX](https://www.nginx.com/), [Apache](https://httpd.apache.org/))
 - Platform - [Digital Ocean](https://www.digitalocean.com/), [AWS](https://aws.amazon.com/), [Heroku](https://dashboard.heroku.com/), [Azure](https://azure.microsoft.com/en-in/)
 - Virtualization - [Docker](https://www.docker.com/), [Vagrant](https://www.vagrantup.com/)
-- Testing - Unit, Integration, Functional, System, [MochaJS](https://mochajs.org/)
+- Testing - Unit, Integration, Functional, System, [MochaJS](https://mochajs.org/)<br />
+  [Intro To JavaScript Unit Testing With Mocha JS & Chai](https://youtu.be/MLTRHc5dk6s), [Testing Node.js with Mocha](https://youtu.be/Bs68k6xfR3E), [Unit Testing in JS](https://www.youtube.com/watch?v=F__b4siflVI&list=PLZEZPz6HkCZk30XEdl0eGNhwvoR-XoWHS)
 
 <h2>Mobile Development</h2>
 
@@ -127,7 +128,7 @@ Mobile Development
 - [NativeScript](https://www.nativescript.org/) - Angular, [TypeScript](https://www.typescriptlang.org/), JavaScipt
 - [Ionic](https://ionicframework.com/) - Hybrid Apps with HTML/CSS/JS - [Ionic 3 Mobile Weather App Build](https://youtu.be/qs2n_poLarc)
 - [Flutter](https://flutter.dev/) - Mobile SDK for Android & iOS (Uses [Dart](https://www.dartlang.org/) Programming Language)<br />
-  [Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart](https://youtu.be/GLSG_Wh_YWc), [Flutter Challenge: Music Player](https://youtu.be/FE7Vtzq52xg)
+  [Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart](https://youtu.be/GLSG_Wh_YWc), [Flutter Challenge: Music Player](https://youtu.be/FE7Vtzq52xg), [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/), [Dart and Flutter: The Complete Developer's Guid](https://www.udemy.com/dart-and-flutter-the-complete-developers-guide/)
 - [Xamarin](https://visualstudio.microsoft.com/xamarin/)- Mobile Apps with C# - [Xamarin Forms Tutorial: Build Native Mobile Apps with C#](https://youtu.be/93ZU6j59wL4)
 
 Desktop Apps with [ElectronJS](https://electronjs.org/)
