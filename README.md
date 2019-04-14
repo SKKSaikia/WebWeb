@@ -2,7 +2,7 @@
 
 # Web Development
 
-Welcome Dev-s, Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and build amazing projects. There are a lot of amazing resources for Learning Web Development and here they are (few of them) -  ♞ [The Coding Train](https://www.youtube.com/user/shiffman), [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh), [Traversy Media](https://www.youtube.com/user/TechGuyWeb) etc. This is the web development [mindmap](https://coggle.it/diagram/WMMEvSoNyAABBX2w/t/web-development-in-2018/b97ca171d59ba2ab3b7ea8da244a8ed3a154ffa067568635fe2676068a1d44d0) and [this](https://github.com/kamranahmedse/developer-roadmap) chart is amazing as well. I have created a list of best-selling resources (level wise from Top to Bottom) that you can learn chronologically. Let's begin this amazing journey.
+Welcome Dev-s, Let's do Webbbbb ! Let's Learn Full Stack Development (Front End + Back End) and build amazing projects. There are a lot of amazing resources for Learning Web Development and here they are (few of them) -  ♞ [The Coding Train](https://www.youtube.com/user/shiffman), [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh), [Traversy Media](https://www.youtube.com/user/TechGuyWeb), [freeCodeCamp.org ](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) etc. This is the web development [mindmap](https://coggle.it/diagram/WMMEvSoNyAABBX2w/t/web-development-in-2018/b97ca171d59ba2ab3b7ea8da244a8ed3a154ffa067568635fe2676068a1d44d0) and [this](https://github.com/kamranahmedse/developer-roadmap) chart is amazing as well. I have created a list of best-selling resources (level wise from Top to Bottom) that you can learn chronologically. Let's begin this amazing journey.
 
 
 
@@ -97,7 +97,9 @@ Server Rendered Pages: Frameworks like React, Vue & Angular can be rendered on t
 <img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/tfjs.png" height=150px><img src="https://github.com/SKKSaikia/WebWeb/blob/master/img/brainJS.png" height=150px>
 
 ♣ [TensorFlow JS](https://www.tensorflow.org/js)<br/>
+  🌗<br />
 ♣ [Brain JS](https://github.com/BrainJS)<br/>
+  🌗 [Neural Networks with JavaScript - Full Course using Brain.js](https://youtu.be/6E6XecoTRVo), [Simple Machine Learning With JavaScript - Brain.js](https://youtu.be/RVMHhtTqUxc), [Want to learn neural networks? Here’s a free Brain.js course!](https://medium.freecodecamp.org/want-to-learn-neural-networks-heres-a-free-brain-js-course-merry-christmas-ea801f378041)<br />
 
 <h2> 🛦 Dev-Ops </h2>
 
